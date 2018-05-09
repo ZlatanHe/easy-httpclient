@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fd9b03e-e44b-44c4-b984-17b44fa4e331" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/easy-httpclient-core.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/HttpClientEngine.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/constant/PrimitiveTypeCache.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/HttpClientDeserializationException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/HttpClientException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/HttpClientSerializationException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientExecutionException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientRequestBuildException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientResponseBuildException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientRuntimeException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientTimeoutException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/proxy/ProxyBinder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/proxy/ProxyConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/HttpRequestBuilder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/encode/FormUrlEncodedRequestBodyEncoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/encode/MultipartRequestBodyEncoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/encode/RequestBodyEncoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/encode/SimpleJsonRequestBodyEncoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/HttpResponseBuilder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponseHeader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponseHeaderImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponseImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/decode/InputStreamBodyDecoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/decode/JacksonResponseBodyDecoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/decode/ResponseBodyDecoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/decode/SimpleStringBodyDecoder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/ArgValidationUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/BeanCacheUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/HttpClientLogUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/JacksonUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/test/java/com/zlatan/easy/httpclient/core/HttpClientEngineTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/easy-httpclient-core/src/test/resources/logback.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/easy-httpclient-core/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HttpClientLogUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/HttpClientLogUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="654">
+              <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpClientEngineTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/test/java/com/zlatan/easy/httpclient/core/HttpClientEngineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1693#1694#0" expanded="true" />
+                <element signature="e#1743#1744#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpRequestBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/HttpRequestBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="116" column="34" lean-forward="false" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArgValidationUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/ArgValidationUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>computeIfAbsent</find>
+      <find>getOrDe</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Hystrix" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/HttpClientException.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/HttpClientRuntimeException.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientRuntimeException.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientTimeoutException.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/HttpRequestBuilder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/ProxyBinder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/proxy/SimpleProxyBinder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/RequestBodyEncoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/proxy/ProxyBinder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientRequestBuildException.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/ArgValidator.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/HttpRequestBuilder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/request/RequestBodyEncoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/Jacksonutils.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/proxy/ProxyConfig.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/HttpClientSerializationException.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/HttpClientDeserializationException.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/JacksonUtils.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/constant/PrimitiveTypeCache.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/decode/RequestBodyDecoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/request/encode/MultipartRequestBodyEncoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/request/encode/RequestBodyEncoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/request/encode/SimpleJsonRequestBodyEncoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/request/encode/FormUrlEncodedRequestBodyEncoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientResponseBuildException.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/decode/ResponseBodyDecoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/decode/JacksonResponseBodyDecoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/decode/InputStreamBodyDecoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/decode/SimpleStringBodyDecoder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/decode/com/zlatan/easy/httpclient/core/response/HttpResponseBuilder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/decode/HttpResponseBuilder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/HttpResponseBuilder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/HttpClientResponseImpl.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/HttpClientResponse.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/data/HttpClientResponseHeader.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/data/HttpClientResponseHeaderImpl.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/data/HttpClientResponse.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/response/data/HttpClientResponseImpl.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/request/HttpRequestBuilder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/core/HttpClientEngine.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientExecutionException.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/HttpResponseBuilder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/pom.xml" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/test/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/HttpClientLogUtils.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/HttpClientEngine.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/HttpRequestBuilder.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/ArgValidationUtils.java" />
+        <option value="$PROJECT_DIR$/easy-httpclient-core/src/test/java/com/zlatan/easy/httpclient/core/HttpClientEngineTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="easy-httpclient" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="easy-httpclient" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="easy-httpclient-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="easy-httpclient-core" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-349" />
+    <option name="y" value="-1080" />
+    <option name="width" value="2048" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="easy-httpclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easy-httpclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easy-httpclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easy-httpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="easy-httpclient-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easy-httpclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easy-httpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="easy-httpclient-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easy-httpclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easy-httpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="easy-httpclient-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easy-httpclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easy-httpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="easy-httpclient-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easy-httpclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easy-httpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="easy-httpclient-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easy-httpclient" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easy-httpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="easy-httpclient-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="ContextUti&#9;PSI&#9;JAVA://ch.qos.logback.core.util.ContextUtil&#10;AutoClose&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/AutoCloseable.java&#10;HttpRequestBu&#9;FILE&#9;file:///Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/HttpRequestBuilder.java&#10;Map&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Map.java&#10;Stream&#9;FILE&#9;jar:///Users/zlatan/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/coyote/http2/Stream.class&#10;Closeab&#9;FILE&#9;jar:///Users/zlatan/.m2/repository/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java&#10;SerializationFea&#9;PSI&#9;JAVA://com.fasterxml.jackson.databind.SerializationFeature&#10;Feature&#9;PSI&#9;JAVA://com.fasterxml.jackson.core.JsonFactory.Feature&#10;CollectionU&#9;PSI&#9;JAVA://org.springframework.util.CollectionUtils&#10;HttpHost&#9;FILE&#9;jar:///Users/zlatan/.m2/repository/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/org/apache/http/HttpHost.java&#10;StringUtils&#9;PSI&#9;JAVA://org.apache.commons.lang.StringUtils" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="H2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zlatan.easy.httpclient.core.core.response" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/easy-httpclient-core/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HttpClientEngineTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="HttpClientLogUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zlatan.easy.httpclient.core.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.zlatan.easy.httpclient.core.util.HttpClientLogUtils" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="easy-httpclient-core" />
+      <envs />
+    </configuration>
+    <configuration name="HttpRequestBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zlatan.easy.httpclient.core.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.zlatan.easy.httpclient.core.core.request.HttpRequestBuilder" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="easy-httpclient-core" />
+      <envs />
+    </configuration>
+    <configuration name="JacksonUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zlatan.easy.httpclient.core.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.zlatan.easy.httpclient.core.util.JacksonUtils" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="easy-httpclient-core" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="HttpClientEngineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zlatan.easy.httpclient.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="easy-httpclient-core" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zlatan.easy.httpclient.core" />
+      <option name="MAIN_CLASS_NAME" value="com.zlatan.easy.httpclient.core.HttpClientEngineTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="HttpClientEngineTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.zlatan.easy.httpclient.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="easy-httpclient-core" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.zlatan.easy.httpclient.core" />
+      <option name="MAIN_CLASS_NAME" value="com.zlatan.easy.httpclient.core.HttpClientEngineTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.HttpRequestBuilder" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JacksonUtils" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HttpClientLogUtils" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.HttpClientEngineTest.test1" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.HttpClientEngineTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HttpClientEngineTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.HttpClientEngineTest.test1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HttpClientLogUtils" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JacksonUtils" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HttpRequestBuilder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fd9b03e-e44b-44c4-b984-17b44fa4e331" name="Default" comment="" />
+      <created>1525426695746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525426695746</updated>
+      <workItem from="1525426704513" duration="54711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HttpClientEngineTest - 2018.05.09 at 15h 49m 07s.xml">
+      <configuration name="HttpClientEngineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HttpClientEngineTest - 2018.05.09 at 15h 49m 29s.xml">
+      <configuration name="HttpClientEngineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HttpClientEngineTest - 2018.05.09 at 16h 03m 13s.xml">
+      <configuration name="HttpClientEngineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HttpClientEngineTest - 2018.05.09 at 16h 06m 41s.xml">
+      <configuration name="HttpClientEngineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HttpClientEngineTest - 2018.05.09 at 16h 06m 54s.xml">
+      <configuration name="HttpClientEngineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HttpClientEngineTest - 2018.05.09 at 16h 09m 11s.xml">
+      <configuration name="HttpClientEngineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HttpClientEngineTest - 2018.05.09 at 16h 10m 53s.xml">
+      <configuration name="HttpClientEngineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HttpClientEngineTest - 2018.05.09 at 16h 11m 31s.xml">
+      <configuration name="HttpClientEngineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HttpClientEngineTest_test1 - 2018.05.09 at 16h 02m 57s.xml">
+      <configuration name="HttpClientEngineTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HttpClientEngineTest_test1 - 2018.05.09 at 16h 05m 12s.xml">
+      <configuration name="HttpClientEngineTest.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54711000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-349" y="-1080" width="2048" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24975075" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39920557" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4021847" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1999003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.6/commons-io-2.6-sources.jar!/org/apache/commons/io/IOUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="1081" column="70" lean-forward="false" selection-start-line="1081" selection-start-column="70" selection-end-line="1081" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3876">
+          <caret line="270" column="22" lean-forward="false" selection-start-line="270" selection-start-column="22" selection-end-line="270" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="63" column="39" lean-forward="false" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/decode/InputStreamBodyDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#180#210#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/decode/SimpleStringBodyDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#261#291#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/coyote/http2/Stream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="579" column="16" lean-forward="true" selection-start-line="579" selection-start-column="16" selection-end-line="579" selection-end-column="16" />
+          <folding>
+            <element signature="e#26957#26958#0" expanded="false" />
+            <element signature="e#27022#27023#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/stream/BaseStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="64" column="24" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="153" column="40" lean-forward="false" selection-start-line="153" selection-start-column="40" selection-end-line="153" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/org/apache/http/NameValuePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/org/apache/http/HeaderElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="76" column="46" lean-forward="true" selection-start-line="76" selection-start-column="46" selection-end-line="76" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/org/apache/http/message/BasicHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="44" column="39" lean-forward="false" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/org/apache/http/message/AbstractHttpMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="116" column="48" lean-forward="false" selection-start-line="116" selection-start-column="48" selection-end-line="116" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/org/apache/http/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="49" column="17" lean-forward="false" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/decode/JacksonResponseBodyDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/org/apache/http/ProtocolVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2712">
+          <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/org/apache/http/HttpMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="61" column="41" lean-forward="true" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.8/httpcore-4.4.8-sources.jar!/org/apache/http/HttpResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="45" column="44" lean-forward="false" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponseHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="601" column="19" lean-forward="true" selection-start-line="601" selection-start-column="19" selection-end-line="601" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponseHeaderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#340#341#0" expanded="false" />
+            <element signature="e#370#371#0" expanded="false" />
+            <element signature="e#411#412#0" expanded="false" />
+            <element signature="e#444#445#0" expanded="false" />
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#520#521#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/proxy/ProxyBinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar!/org/springframework/aop/framework/ProxyConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/proxy/ProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/HttpClientSerializationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/HttpClientDeserializationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientExecutionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#303#304#0" expanded="false" />
+            <element signature="e#377#378#0" expanded="false" />
+            <element signature="e#408#409#0" expanded="false" />
+            <element signature="e#466#467#0" expanded="false" />
+            <element signature="e#488#489#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/decode/ResponseBodyDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/client/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="89" column="17" lean-forward="false" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/HttpResponseBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" lean-forward="false" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="216" column="36" lean-forward="false" selection-start-line="216" selection-start-column="36" selection-end-line="216" selection-end-column="36" />
+          <folding>
+            <element signature="e#9276#9277#0" expanded="false" />
+            <element signature="e#9322#9323#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/client/HttpClients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="55" column="36" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+          <folding>
+            <element signature="e#1887#1888#0" expanded="false" />
+            <element signature="e#1944#1945#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.jar!/ch/qos/logback/core/util/ContextUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-543">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/test/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.9.RELEASE/spring-boot-dependencies-1.5.9.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="28" lean-forward="false" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/encode/FormUrlEncodedRequestBodyEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar!/org/apache/http/impl/client/HttpClients.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <marker date="1525851790331" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1525851790331" expanded="false" signature="151:269" ph="..." />
+            <marker date="1525851790331" expanded="true" signature="322:327" ph="{}" />
+            <marker date="1525851790331" expanded="false" signature="371:378" ph=" { " />
+            <marker date="1525851790331" expanded="false" signature="412:416" ph=" }" />
+            <marker date="1525851790331" expanded="true" signature="469:476" ph=" { " />
+            <marker date="1525851790331" expanded="true" signature="518:522" ph=" }" />
+            <marker date="1525851790331" expanded="false" signature="574:581" ph=" { " />
+            <marker date="1525851790331" expanded="false" signature="645:649" ph=" }" />
+            <marker date="1525851790331" expanded="true" signature="703:784" ph="{...}" />
+            <marker date="1525851790331" expanded="true" signature="877:929" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="778" column="35" lean-forward="false" selection-start-line="778" selection-start-column="35" selection-end-line="778" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+          <folding>
+            <element signature="e#1887#1888#0" expanded="false" />
+            <element signature="e#1944#1945#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/HttpClientEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="e#1889#1890#0" expanded="true" />
+            <element signature="e#1952#1953#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="56" lean-forward="false" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/HttpClientLogUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/HttpRequestBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="116" column="34" lean-forward="false" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/ArgValidationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy-httpclient-core/src/test/java/com/zlatan/easy/httpclient/core/HttpClientEngineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="56" column="24" lean-forward="true" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#1743#1744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>easy-httpclient-core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean install" />
+  </component>
+</project>
