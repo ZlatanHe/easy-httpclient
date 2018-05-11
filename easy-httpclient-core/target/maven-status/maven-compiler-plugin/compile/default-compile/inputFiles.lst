@@ -3,6 +3,7 @@
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/HttpClientEngine.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/BeanCacheUtils.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientRequestBuildException.java
+/Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/constant/TypeCache.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/exception/runtime/HttpClientExecutionException.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponseHeaderImpl.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/ArgValidationUtils.java
@@ -22,7 +23,6 @@
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/data/HttpClientResponseImpl.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/HttpResponseBuilder.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/util/HttpClientLogUtils.java
-/Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/constant/PrimitiveTypeCache.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/encode/MultipartRequestBodyEncoder.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/request/encode/RequestBodyEncoder.java
 /Users/zlatan/workspace/easy-httpclient/easy-httpclient-core/src/main/java/com/zlatan/easy/httpclient/core/response/decode/InputStreamBodyDecoder.java

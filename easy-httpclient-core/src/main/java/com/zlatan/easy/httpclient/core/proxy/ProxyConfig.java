@@ -16,11 +16,11 @@ public class ProxyConfig {
 
   public static final String HTTPS_SCHEME = "https";
 
-  private final String proxyHostName;
+  private String proxyHostName;
 
-  private final int port;
+  private int port;
 
-  private final String scheme;
+  private String scheme;
 
   public ProxyConfig(String proxyHostName) {
     this.proxyHostName = proxyHostName;

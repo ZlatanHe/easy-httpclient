@@ -7,8 +7,8 @@
     <!--contextName:工程名-->
     <contextName>easy-httpclient</contextName>
     <!--property:变量值，在后续配置中以${log.dir}的方式引用-->
-    <property name="log.dir" value="/data/logs/easy-httpclient" />
-    <property name="projectname" value="easy-httpclient" />
+    <property name="log.dir" key="/data/logs/easy-httpclient" />
+    <property name="projectname" key="easy-httpclient" />
 
     <!--对于appender标签，name是appender的名称，class是全限定名。以下每个appender是输入到不同位置，具体看class基本就能看出来-->
     <!--encoder标签就是输出日志的格式化-->
@@ -21,7 +21,7 @@
     </appender>
 
     <root>
-        <level value="INFO" />
+        <level key="INFO" />
         <appender-ref ref="STDOUT" />
     </root>
 </configuration>

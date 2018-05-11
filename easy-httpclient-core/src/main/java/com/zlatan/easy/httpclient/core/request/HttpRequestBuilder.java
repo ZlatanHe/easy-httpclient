@@ -166,7 +166,7 @@ public final class HttpRequestBuilder {
     ArgValidationUtils.validateStringNotBlank("key", key);
     ArgValidationUtils.validateObjectNotNull("httpPostBodyParam", bodyParam);
     if (isGet) {
-      throw new HttpClientRequestBuildException("Get request does not have body params.");
+      throw new HttpClientRequestBuildException("Get request is not allowed to have body params.");
     }
     postBodyParams.put(key, bodyParam);
     return this;

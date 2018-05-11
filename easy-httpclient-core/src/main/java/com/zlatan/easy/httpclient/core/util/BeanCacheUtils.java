@@ -19,7 +19,7 @@ import java.util.Map;
 @Slf4j
 public final class BeanCacheUtils {
 
-  public static final Map<Class, Object> beanCache = new IdentityHashMap<>();
+  private static final Map<Class, Object> beanCache = new IdentityHashMap<>();
 
   public static <T> T getBean(Class<T> beanClass) {
     T bean = (T) beanCache.get(beanClass);

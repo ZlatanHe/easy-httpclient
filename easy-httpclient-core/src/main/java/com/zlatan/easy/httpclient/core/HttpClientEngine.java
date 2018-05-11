@@ -9,6 +9,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpRequestBase;
+import org.apache.http.protocol.HttpContext;
 
 /**
  * @Title:
@@ -26,6 +27,8 @@ public final class HttpClientEngine<T> {
 
   private final HttpResponseBuilder<T> httpResponseBuilder;
 
+  private HttpContext httpContext;
+
   public HttpClientEngine(HttpClient httpClient,
                           HttpRequestBuilder httpRequestBuilder,
                           HttpResponseBuilder<T> httpResponseBuilder) {
@@ -39,6 +42,11 @@ public final class HttpClientEngine<T> {
     return this;
   }
 
+  public HttpClientEngine<T> setHttpContext(HttpContext httpContext) {
+    this.httpContext = httpContext;
+    return this;
+  }
+
   public HttpClientResponse<T> execute() {
     HttpRequestBase httpRequest = httpRequestBuilder.build();
     if (logRequired) {
@@ -46,7 +54,11 @@ public final class HttpClientEngine<T> {
     }
     HttpResponse httpResponse;
     try {
-      httpResponse = httpClient.execute(httpRequest);
+      if (httpContext == null) {
+        httpResponse = httpClient.execute(httpRequest);
+      } else {
+        httpResponse = httpClient.execute(httpRequest, httpContext);
+      }
     } catch (Exception e) {
       throw new HttpClientExecutionException(e);
     }

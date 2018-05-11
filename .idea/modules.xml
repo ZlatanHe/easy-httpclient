@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/easy-httpclient.iml" filepath="$PROJECT_DIR$/easy-httpclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy-httpclient-core/easy-httpclient-core.iml" filepath="$PROJECT_DIR$/easy-httpclient-core/easy-httpclient-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy-httpclient-mapper/easy-httpclient-mapper.iml" filepath="$PROJECT_DIR$/easy-httpclient-mapper/easy-httpclient-mapper.iml" />
     </modules>
   </component>
 </project>

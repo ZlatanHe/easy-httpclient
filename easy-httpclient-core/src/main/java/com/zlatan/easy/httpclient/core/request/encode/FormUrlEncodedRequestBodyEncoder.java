@@ -1,6 +1,6 @@
 package com.zlatan.easy.httpclient.core.request.encode;
 
-import com.zlatan.easy.httpclient.core.constant.PrimitiveTypeCache;
+import com.zlatan.easy.httpclient.core.constant.TypeCache;
 import com.zlatan.easy.httpclient.core.util.JacksonUtils;
 import org.apache.http.HttpEntity;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
@@ -23,7 +23,7 @@ public class FormUrlEncodedRequestBodyEncoder implements RequestBodyEncoder {
     for (Map.Entry<String, Object> entry : parameters.entrySet()) {
       Object value = entry.getValue();
       String valueStr;
-      if (PrimitiveTypeCache.primitiveClassSet.contains(value.getClass())) {
+      if (TypeCache.fundamentalClassSet.contains(value.getClass())) {
         valueStr = value.toString();
       } else {
         valueStr = JacksonUtils.toJson(value);

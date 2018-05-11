@@ -6,11 +6,8 @@ import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.methods.HttpRequestBase;
 import org.apache.http.util.EntityUtils;
 import org.slf4j.Logger;
-import org.springframework.util.Assert;
 
 import java.io.Closeable;
-import java.util.ArrayList;
-import java.util.stream.Stream;
 
 /**
  * @Title:
@@ -21,7 +18,7 @@ public final class HttpClientLogUtils {
 
   public static void printHttpRequestInfo(Logger logger,
                                           HttpRequestBase httpRequestBase) {
-    Assert.notNull(logger, "Logger cannot be null.");
+    ArgValidationUtils.validateObjectNotNull("logger", logger);
     StringBuilder sb = new StringBuilder("\n").append(httpRequestBase.toString()).append("\n");
     Header[] headers = httpRequestBase.getAllHeaders();
     for (Header header : headers) {

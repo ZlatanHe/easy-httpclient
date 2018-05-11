@@ -8,11 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="easy-httpclient-core" />
+        <module name="easy-httpclient-mapper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="easy-httpclient" target="1.8" />
       <module name="easy-httpclient-core" target="1.8" />
+      <module name="easy-httpclient-mapper" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
