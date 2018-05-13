@@ -29,7 +29,7 @@ public final class JacksonUtils {
     OBJECT_MAPPER.setSerializationInclusion(JsonInclude.Include.NON_NULL);
   }
 
-  public static String toJson(Object o) throws HttpClientSerializationException {
+  public static String toJson(Object o) {
     try {
       return OBJECT_MAPPER.writeValueAsString(o);
     } catch (Exception e) {
@@ -37,7 +37,7 @@ public final class JacksonUtils {
     }
   }
 
-  public static byte[] toBytes(Object o) throws HttpClientSerializationException {
+  public static byte[] toBytes(Object o) {
     try {
       return OBJECT_MAPPER.writeValueAsBytes(o);
     } catch (Exception e) {
@@ -45,7 +45,7 @@ public final class JacksonUtils {
     }
   }
 
-  public static <T> T toObject(String json, Class<T> clazz) throws HttpClientDeserializationException {
+  public static <T> T toObject(String json, Class<T> clazz) {
     try {
       return OBJECT_MAPPER.readValue(json, clazz);
     } catch (Exception e) {

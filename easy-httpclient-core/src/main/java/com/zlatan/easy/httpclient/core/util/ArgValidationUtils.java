@@ -1,6 +1,6 @@
 package com.zlatan.easy.httpclient.core.util;
 
-import com.zlatan.easy.httpclient.core.exception.runtime.HttpClientRuntimeException;
+import com.zlatan.easy.httpclient.core.exception.HttpClientRuntimeException;
 import org.apache.commons.lang.StringUtils;
 
 import java.util.concurrent.Callable;

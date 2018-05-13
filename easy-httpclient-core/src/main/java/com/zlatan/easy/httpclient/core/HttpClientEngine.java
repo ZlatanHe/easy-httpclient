@@ -1,6 +1,6 @@
 package com.zlatan.easy.httpclient.core;
 
-import com.zlatan.easy.httpclient.core.exception.runtime.HttpClientExecutionException;
+import com.zlatan.easy.httpclient.core.exception.HttpClientExecutionException;
 import com.zlatan.easy.httpclient.core.request.HttpRequestBuilder;
 import com.zlatan.easy.httpclient.core.response.HttpResponseBuilder;
 import com.zlatan.easy.httpclient.core.response.data.HttpClientResponse;

@@ -1,6 +1,6 @@
 package com.zlatan.easy.httpclient.core.response.decode;
 
-import com.zlatan.easy.httpclient.core.exception.runtime.HttpClientResponseBuildException;
+import com.zlatan.easy.httpclient.core.exception.HttpClientResponseBuildException;
 import com.zlatan.easy.httpclient.core.util.JacksonUtils;
 import org.apache.commons.io.IOUtils;
 import org.apache.http.HttpEntity;

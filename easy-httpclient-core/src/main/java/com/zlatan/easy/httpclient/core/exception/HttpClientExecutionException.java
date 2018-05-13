@@ -1,4 +1,4 @@
-package com.zlatan.easy.httpclient.core.exception.runtime;
+package com.zlatan.easy.httpclient.core.exception;
 
 /**
  * @Title:

@@ -5,7 +5,7 @@ package com.zlatan.easy.httpclient.core.exception;
  * @Description:
  * @Date: Created By hewei in 08/05/2018 2:25 PM
  */
-public class HttpClientSerializationException extends HttpClientException {
+public class HttpClientSerializationException extends HttpClientRuntimeException {
 
   public HttpClientSerializationException(String message) {
     super(message);

@@ -1,6 +1,6 @@
 package com.zlatan.easy.httpclient.core;
 
-import com.zlatan.easy.httpclient.core.exception.runtime.HttpClientRuntimeException;
+import com.zlatan.easy.httpclient.core.exception.HttpClientRuntimeException;
 import com.zlatan.easy.httpclient.core.proxy.ProxyBinder;
 import com.zlatan.easy.httpclient.core.proxy.ProxyConfig;
 import com.zlatan.easy.httpclient.core.request.HttpRequestBuilder;

@@ -1,6 +1,6 @@
 package com.zlatan.easy.httpclient.core.request.encode;
 
-import com.zlatan.easy.httpclient.core.exception.runtime.HttpClientRequestBuildException;
+import com.zlatan.easy.httpclient.core.exception.HttpClientRequestBuildException;
 import org.apache.http.HttpEntity;
 
 import java.util.Map;

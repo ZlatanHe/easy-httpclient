@@ -1,6 +1,6 @@
 package com.zlatan.easy.httpclient.mapper.core.template;
 
-import com.zlatan.easy.httpclient.core.exception.runtime.HttpClientRequestBuildException;
+import com.zlatan.easy.httpclient.core.exception.HttpClientRequestBuildException;
 import com.zlatan.easy.httpclient.core.proxy.ProxyBinder;
 import com.zlatan.easy.httpclient.core.proxy.ProxyConfig;
 import com.zlatan.easy.httpclient.core.request.HttpRequestBuilder;

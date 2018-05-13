@@ -1,27 +1,20 @@
 package com.zlatan.easy.httpclient.core.request;
 
-import com.zlatan.easy.httpclient.core.exception.runtime.HttpClientRequestBuildException;
+import com.zlatan.easy.httpclient.core.exception.HttpClientRequestBuildException;
 import com.zlatan.easy.httpclient.core.proxy.ProxyBinder;
 import com.zlatan.easy.httpclient.core.proxy.ProxyConfig;
 import com.zlatan.easy.httpclient.core.request.encode.RequestBodyEncoder;
 import com.zlatan.easy.httpclient.core.request.encode.SimpleJsonRequestBodyEncoder;
 import com.zlatan.easy.httpclient.core.util.ArgValidationUtils;
 import com.zlatan.easy.httpclient.core.util.BeanCacheUtils;
-import com.zlatan.easy.httpclient.core.util.HttpClientLogUtils;
-import org.apache.http.HttpResponse;
-import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.client.methods.HttpRequestBase;
-import org.apache.http.impl.client.HttpClients;
-import org.slf4j.LoggerFactory;
 
-import java.net.URI;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.regex.Pattern;
 
 /**
  * @Title:
