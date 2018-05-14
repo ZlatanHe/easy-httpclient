@@ -2,8 +2,10 @@ package com.zlatan.easy.httpclient.mapper.annotations;
 
 import com.zlatan.easy.httpclient.core.request.encode.RequestBodyEncoder;
 import com.zlatan.easy.httpclient.core.request.encode.SimpleJsonRequestBodyEncoder;
+import com.zlatan.easy.httpclient.mapper.annotations.config.HttpRequestConfiguration;
+import com.zlatan.easy.httpclient.mapper.annotations.element.Host;
+import com.zlatan.easy.httpclient.mapper.annotations.element.Path;
 import com.zlatan.easy.httpclient.mapper.constant.RequestMethod;
-import com.zlatan.easy.httpclient.mapper.annotations.element.*;
 
 import java.lang.annotation.*;
 
@@ -64,16 +66,4 @@ public @interface HttpRequest {
    * @see HttpRequestConfiguration
    */
   HttpRequestConfiguration configuration() default @HttpRequestConfiguration;
-
-  @Documented
-  @Retention(RetentionPolicy.RUNTIME)
-  @Target({})
-  @interface HttpRequestConfiguration {
-
-    int connectTimeoutMs() default -1;
-
-    int connectionRequestTimeoutMs() default -1;
-
-    int socketTimeoutMs() default -1;
-  }
 }

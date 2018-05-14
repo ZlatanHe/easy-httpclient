@@ -7,8 +7,9 @@ import java.lang.annotation.*;
  * @Description:
  * @Date: Created By hewei in 09/05/2018 4:31 PM
  */
+@EasyHttpClient
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)
 @Documented
-public @interface HttpClient {
+public @interface EasyHttpClient {
 }

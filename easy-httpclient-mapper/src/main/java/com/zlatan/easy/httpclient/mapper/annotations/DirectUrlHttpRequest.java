@@ -2,6 +2,7 @@ package com.zlatan.easy.httpclient.mapper.annotations;
 
 import com.zlatan.easy.httpclient.core.request.encode.RequestBodyEncoder;
 import com.zlatan.easy.httpclient.core.request.encode.SimpleJsonRequestBodyEncoder;
+import com.zlatan.easy.httpclient.mapper.annotations.config.HttpRequestConfiguration;
 import com.zlatan.easy.httpclient.mapper.annotations.element.Url;
 import com.zlatan.easy.httpclient.mapper.constant.RequestMethod;
 
@@ -46,5 +47,12 @@ public @interface DirectUrlHttpRequest {
    *
    */
   Class<? extends RequestBodyEncoder> encoder() default SimpleJsonRequestBodyEncoder.class;
+
+  /**
+   * request configurations.
+   *
+   * @see HttpRequestConfiguration
+   */
+  HttpRequestConfiguration configuration() default @HttpRequestConfiguration;
 }
 

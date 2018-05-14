@@ -1,6 +1,6 @@
 package com.zlatan.easy.httpclient.mapper.scan;
 
-import com.zlatan.easy.httpclient.mapper.annotations.HttpClient;
+import com.zlatan.easy.httpclient.mapper.annotations.EasyHttpClient;
 import com.zlatan.easy.httpclient.mapper.constant.CommonBeanNames;
 import org.springframework.beans.factory.annotation.AnnotatedBeanDefinition;
 import org.springframework.beans.factory.config.BeanDefinitionHolder;
@@ -23,12 +23,12 @@ public class HttpClientMapperDefinitionScanner extends ClassPathBeanDefinitionSc
 
   HttpClientMapperDefinitionScanner(BeanDefinitionRegistry registry) {
     super(registry);
-    addIncludeFilter(new AnnotationTypeFilter(HttpClient.class));
+    addIncludeFilter(new AnnotationTypeFilter(EasyHttpClient.class));
   }
 
   @Override
   protected boolean isCandidateComponent(MetadataReader metadataReader) throws IOException {
-    return metadataReader.getAnnotationMetadata().hasAnnotation(HttpClient.class.getName());
+    return metadataReader.getAnnotationMetadata().hasAnnotation(EasyHttpClient.class.getName());
   }
 
   @Override

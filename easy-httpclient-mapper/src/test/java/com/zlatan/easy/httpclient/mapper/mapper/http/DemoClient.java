@@ -17,7 +17,7 @@ import java.io.InputStream;
  * @Description:
  * @Date: Created By hewei in 10/05/2018 7:28 PM
  */
-@HttpClient
+@EasyHttpClient
 public interface DemoClient {
 
   @DirectUrlHttpRequest("https://www.baidu.com")
